@@ -1,1 +1,2 @@
 # Miguel
+Olá, meu nome é Miguel, tenho 18 anos e atualmente sou estudante da UNIFIL, em Londrina. Tenho grande interesse na área de tecnologia e estou em constante aprendizado, buscando desenvolver minhas habilidades em programação, algoritmos e desenvolvimento de sistemas. Meu objetivo é crescer cada vez mais na área de TI, adquirindo conhecimento prático e teórico para me tornar um profissional qualificado no futuro
